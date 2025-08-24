@@ -11,6 +11,7 @@ dataset
 # ignore annotation
 !/data/
 /data/*
+!/data/ablation_annos
 !/data/*.sh
 
 dcgm
